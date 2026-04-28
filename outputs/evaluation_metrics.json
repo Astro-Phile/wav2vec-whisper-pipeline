@@ -1,0 +1,10 @@
+{
+  "WER English (%)": 0.0,
+  "WER Hindi (%)": 0.0,
+  "MCD (warped synthesis)": 774.3259,
+  "MCD (flat synthesis)": 781.4137,
+  "LID Best F1": 1.0,
+  "Language Switches Detected": 264,
+  "LID Frame Resolution (ms)": 20,
+  "Anti-Spoofing EER (%)": 0.0
+}
